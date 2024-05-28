@@ -13,7 +13,7 @@ Usei o **ChatGPT** para cria um título e escrever o roteiro deste vídeo em for
 ## 🚀 Resultados
 O vídeo é uma amostra do poder das IA e o que nos aguarda no futuro
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/Jhulliano/lab-natty-or-not/tree/main/resultado)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs para criar uma narrativa cativante.
